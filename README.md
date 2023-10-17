@@ -100,8 +100,9 @@ Innovations in air quality monitoring systems continue to evolve, driven by the
 growing awareness of the health impacts of air pollution and the need for 
 accurate, real-time information to support public health and environmental 
 policies.
+ 
  AIR QUALITY MONITORING USING TINKERCAD
-PHASE 3 : PROJECT DEVELOPMENT 
+ PHASE 3 : PROJECT DEVELOPMENT 
 Developing an air quality monitoring project using Tinkercad is a great way to learn 
 about environmental monitoring and IoT (Internet of Things) applications.. Here's a stepby-step guide to creating an air quality monitoring project using Tinkercad:
 COMPONENTS :
